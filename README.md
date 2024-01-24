@@ -12,7 +12,7 @@
 
 ## Live link:
 ```
-
+https://samirah-m.github.io/Daily_Planner_App/
 ```
 
 ## Author
